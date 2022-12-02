@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --referece=guillaume betty hello
