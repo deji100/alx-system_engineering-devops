@@ -3,5 +3,6 @@
 # In between each iteration of the loop, add a sleep 2
 
 while true
-    echo "To infinity and beyond"
-    sleep 2
+do
+	echo "To infinity and beyond"
+	sleep 2
